@@ -17,4 +17,9 @@ This project is a Machine Learning-based Human Development Index (HDI) Predictio
 - Classifies development level
 - Interactive web interface
 
+## team members
+- Daggavolu Ganesh
+- Rohith Chitteti
+- Gaddala Amrutha
+- Yanamala Sreelekha
 Developed as part of the AI-ML-and-GEN-AI Track Project.
