@@ -25,9 +25,17 @@ Seaborn (Visualization)
 Pickle (Model serialization)
 
 ## Features
-- Predicts HDI score
-- Classifies development level
-- Interactive web interface
+- Predict Human Development Index (HDI)
+- Interactive Flask web application
+- User-friendly interface
+- Machine Learning using Linear Regression
+- Predicts HDI score in real time
+- Displays HDI category:
+  - Very High
+  - High
+  - Medium
+  - Low
+- Country selection support
 
 ## Team members
 - Daggavolu Ganesh
