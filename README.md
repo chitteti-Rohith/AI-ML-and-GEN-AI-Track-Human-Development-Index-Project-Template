@@ -4,25 +4,25 @@ This project is a Machine Learning-based Human Development Index (HDI) Predictio
 
 ## Tech Stack
 
-Programming Language
-Python
+-Programming Language
+ Python
 
-Machine Learning
-Scikit-learn (Linear Regression)
+-Machine Learning
+ Scikit-learn (Linear Regression)
 
-Web Framework
-Flask
-Frontend
-HTML
-CSS
-JavaScript
+-Web Framework
+ Flask
+ Frontend
+ HTML
+ CSS
+ JavaScript
 
-Libraries
-Pandas (Dataprocessing)
-NumPy (Dataprocessing
-Matplotlib(Visualization)
-Seaborn (Visualization)
-Pickle (Model serialization)
+-Libraries
+ Pandas (Dataprocessing)
+ NumPy (Dataprocessing
+ Matplotlib(Visualization)
+ Seaborn (Visualization)
+ Pickle (Model serialization)
 
 ## Features
 - Predict Human Development Index (HDI)
